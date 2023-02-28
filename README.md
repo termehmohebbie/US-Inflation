@@ -1,41 +1,41 @@
 # US-Inflation
 ## Project-1
 
-**Bootcamp: UTOR-VIRT-DATA-PT-10-2022-U-LOLC-MTTH **
+**Bootcamp: UTOR-VIRT-DATA-PT-10-2022-U-LOLC-MTTH**
 
-**Project-01: Inflation and its effects **
+**Project-01: Inflation and its effects**
 
 **Team Number: 07** 
  
 **Team Members: **
 
-1. Payal Dhillon (Alisha) 
+1. Payal Dhillon
 2. Yonghao Liu
 3. Termeh Mohebbie 
-4 . Md Mohsin Rana 
+4. Md Mohsin Rana 
 
-**Team Mentor: **
+**Team Mentor:**
 Laurel Lobo Project details:
 
-**Topic of the Project **
+**Topic of the Project**
 
 We have analysis all the data to figure out how the inflation is This analysis will help to find out how today’s inflation rate is impacting several aspects of everyday life. This includes real estate, grocery prices, purchasing habit, labor market, minimum and median wages. 
 
-**Analyzed  data to answer below question **
+**Analyzed  data to answer below question**
 
 1. How does inflation affect purchasing habits?
 2. How do grocery prices and minimum wages relate to Inflation? 
 3. How does inflation affect labor market?
 4. How does inflation affect real estate market? 
 
-**Assigned Task to the Team member **
+**Assigned Task to the Team member**
 
-1. How does inflation affect purchasing habits - Payal Dhillon (Alisha)
+1. How does inflation affect purchasing habits - Payal Dhillon
 2. How do grocery prices and minimum wages relate to Inflation- Yonghao Liu
 3. How does inflation affect labor market -  Termeh Mohebbie
 4. How does inflation affect real estate market - Md Mohsin Rana
 
-**Resources and link: **
+**Resources and link:**
 
 We have used below site to get the dataset and all datasets are uploaded in the Resources folder 
 1.	Consumer Price Index US All Commodities | Kaggle
@@ -47,7 +47,7 @@ We have used below site to get the dataset and all datasets are uploaded in the 
 7.	https://ca.investing.com/economic-calendar/interest-rate-decision-168
 
 
-**Observations and conclusions **
+**Observations and conclusions**
 
 **For Question No-1 - How does inflation affect purchasing habits**
 
@@ -70,7 +70,7 @@ The Plot that we made to compare Real Minimum wages vs Nominal Minimum wages sho
 
 The bar chart for Real Minimum wages Vs Food Inflation shows how food inflation related with real minimum wage. You can see the wages decrease faster when the food inflation is higher and vice versa. The relationship between food inflation and real minimum wage is closer than the relationship between food inflation and inflation in general. How interesting is that!
 
-**For Question No-3 - How does inflation affect labor market **
+**For Question No-3 - How does inflation affect labor market**
 
 The correlation matrix that we made, if we take a closer look to inflation and inflation rate, we can see it's increasing with year which is expected, then we can understand that it affects wage growth more than wage, also it's visible that the most positively correlated indicator with inflation is CPI_Core_Core ( which tracks changes in prices that consumers pay for a basket of goods excluding cost of food, shelter, energy, and used cars and trucks ), and after that is Employment_Cost_Index. For the most negatively correlated indicator we can clearly see Part_Time_Employment, Unemployment_Rate and also Bankruptcies.
 So we can do some further analysis on the effects of inflation on CPI and core core CPI, Employment costs, Employment/Unemployment Rates, Full-time/Part-time Employment and Wage Growth.
@@ -88,7 +88,7 @@ The boom years of the 1990s were a time of low inflation and low unemployment. T
 *Productivity improvements due to the large-scale adoption of technology,
 *Demographic changes in the labor force, with more aging baby boomers and fewer teens working.
 
-**For Question No 4 -How does inflation affect real estate market **
+**For Question No 4 -How does inflation affect real estate market**
 
 Government increase the interest rate to flight the increased inflation rate After analyzing the data we have seen the same is reflecting in the bar chart. We have also seen that 3 to 5% inflation rate reconsidered under contorted and no adjustment of interest rate for that period.
 
